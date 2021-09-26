@@ -1540,9 +1540,6 @@ textarea {
   }
 
   .profile_address div {
-  }
-
-  .profile_address div {
     min-width: 40%;
   }
 
@@ -1573,14 +1570,14 @@ textarea {
     width: 100%;
   }
 
-    /*----------回到顶部----------*/
-    .backup {
-      width: 30px;
-      height: 30px;
-    }
-  
-    .backup svg {
-      width: 30px;
-      height: 30px;
-    }
+  /*----------回到顶部----------*/
+  .backup {
+    width: 30px;
+    height: 30px;
+  }
+
+  .backup svg {
+    width: 30px;
+    height: 30px;
+  }
 }
