@@ -1540,7 +1540,10 @@ textarea {
   }
 
   .profile_address div {
-    min-width: 60px;
+  }
+
+  .profile_address div {
+    min-width: 40%;
   }
 
   /*----------技能掌握区域----------*/
